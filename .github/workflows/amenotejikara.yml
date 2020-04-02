@@ -1,0 +1,19 @@
+name: Amenotejikara
+on:
+  push:
+    branches:
+      - "master"
+      - "actions/amenotejikara__*"
+jobs:
+  release-to-github-personal-page:
+    name: release to GitHub personal page
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '12.x'
+      - name: install dependencies
+        run: yarn
+      - name: compile design docs
+        run: yarn docs:build
