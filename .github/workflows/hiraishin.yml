@@ -1,0 +1,27 @@
+name: Hiraishin
+on:
+  pull_request:
+    branches:
+      - "master"
+  push:
+    branches:
+      - "master"
+      - "dev/*"
+      - "chore/*"
+      - "refactor/*"
+      - "feat/*"
+jobs:
+  linter-check:
+    name: linter check all files
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: "12.x"
+      - name: install dependencies
+        run: yarn
+      - name: run linter check
+        run: yarn docs:lint
+      - name: run builder check
+        run: yarn docs:build
