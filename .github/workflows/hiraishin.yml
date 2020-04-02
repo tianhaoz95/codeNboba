@@ -23,3 +23,5 @@ jobs:
         run: yarn
       - name: run linter check
         run: yarn docs:lint
+      - name: run builder check
+        run: yarn docs:build

@@ -58,6 +58,32 @@ module.exports = {
         sidebar: [["/zh/", "主页"]],
         nav: [
           {
+            text: "社媒号",
+            items: [
+              {
+                text: "脸书",
+                link: "https://www.facebook.com/tianhaozhou95/",
+                target: "_blank",
+              },
+              {
+                text: "领英",
+                link: "https://www.linkedin.com/in/tianhaoz/",
+                target: "_blank",
+              },
+              {
+                text: "推特",
+                link: "https://twitter.com/TheSWE2",
+                target: "_blank",
+              },
+              {
+                text: "油管",
+                link:
+                  "https://www.youtube.com/channel/UCY13XGU7-3mYz2n1NzV4oGw",
+                target: "_blank",
+              },
+            ],
+          },
+          {
             text: "GitHub",
             link: "https://github.com/tianhaoz95",
             target: "_blank",
