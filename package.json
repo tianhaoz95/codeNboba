@@ -1,0 +1,26 @@
+{
+  "name": "codenboba",
+  "version": "1.0.0",
+  "description": "Peronsal site built with code and boba.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tianhaoz95/codeNboba.git"
+  },
+  "author": "Tianhao Zhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tianhaoz95/codeNboba/issues"
+  },
+  "homepage": "https://github.com/tianhaoz95/codeNboba#readme",
+  "devDependencies": {
+    "vuepress": "^1.4.0"
+  }
+}
