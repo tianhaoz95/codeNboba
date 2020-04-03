@@ -13,15 +13,28 @@ module.exports = {
   },
   themeConfig: {
     logo: "avatar.png",
+    sidebar: "auto",
+    repo: "tianhaoz95/codeNboba",
+    editLinks: true,
     locales: {
       "/": {
         selectText: "Languages",
         label: "English",
-        sidebar: [["/", "Home"]],
+        editLinkText: "Help us improve this page!",
+        lastUpdated: "Last Updated",
         nav: [
+          {
+            text: "Projects",
+            link: "/projects/",
+          },
           {
             text: "Social Media",
             items: [
+              {
+                text: "Newsletter",
+                link: "https://jacksonz.substack.com",
+                target: "_blank",
+              },
               {
                 text: "Facebook",
                 link: "https://www.facebook.com/tianhaozhou95/",
@@ -38,28 +51,38 @@ module.exports = {
                 target: "_blank",
               },
               {
-                text: "YouTube",
+                text: "YouTube Channel",
                 link:
                   "https://www.youtube.com/channel/UCY13XGU7-3mYz2n1NzV4oGw",
                 target: "_blank",
               },
+              {
+                text: "GitHub",
+                link: "https://github.com/tianhaoz95",
+                target: "_blank",
+              },
             ],
-          },
-          {
-            text: "GitHub",
-            link: "https://github.com/tianhaoz95",
-            target: "_blank",
           },
         ],
       },
       "/zh/": {
         selectText: "选择语言",
         label: "简体中文",
-        sidebar: [["/zh/", "主页"]],
+        editLinkText: "小朋友们来帮忙",
+        lastUpdated: "最后更新",
         nav: [
+          {
+            text: "项目主页",
+            link: "/zh/projects/",
+          },
           {
             text: "社媒号",
             items: [
+              {
+                text: "邮件订阅",
+                link: "https://jacksonz.substack.com",
+                target: "_blank",
+              },
               {
                 text: "脸书",
                 link: "https://www.facebook.com/tianhaozhou95/",
@@ -76,17 +99,17 @@ module.exports = {
                 target: "_blank",
               },
               {
-                text: "油管",
+                text: "油管频道",
                 link:
                   "https://www.youtube.com/channel/UCY13XGU7-3mYz2n1NzV4oGw",
                 target: "_blank",
               },
+              {
+                text: "GitHub",
+                link: "https://github.com/tianhaoz95",
+                target: "_blank",
+              },
             ],
-          },
-          {
-            text: "GitHub",
-            link: "https://github.com/tianhaoz95",
-            target: "_blank",
           },
         ],
       },
