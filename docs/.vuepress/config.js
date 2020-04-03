@@ -11,6 +11,23 @@ module.exports = {
       description: "博客项目汇总",
     },
   },
+  plugins: [
+    "@vuepress/back-to-top",
+    "@vuepress/nprogress",
+    "@vuepress/medium-zoom",
+    [
+      "@vuepress/blog",
+      {
+        directories: [
+          {
+            id: "post",
+            dirname: "_posts",
+            path: "/posts/",
+          },
+        ],
+      },
+    ],
+  ],
   themeConfig: {
     logo: "avatar.png",
     sidebar: "auto",
