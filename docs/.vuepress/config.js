@@ -76,6 +76,7 @@ module.exports = {
     logo: "/icons/avatars/avatar.png",
     sidebar: "auto",
     repo: "tianhaoz95/codeNboba",
+    docsDir: 'docs',
     editLinks: true,
     locales: {
       "/": {
