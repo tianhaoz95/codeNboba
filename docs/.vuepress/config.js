@@ -79,6 +79,14 @@ module.exports = {
         lastUpdated: "Last Updated",
         nav: [
           {
+            text: "Eng Notes",
+            link: "/eng/",
+          },
+          {
+            text: "Life Hacks",
+            link: "/life/",
+          },
+          {
             text: "Projects",
             link: "/projects/",
           },
