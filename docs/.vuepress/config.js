@@ -32,8 +32,8 @@ module.exports = {
   locales: {
     "/": {
       lang: "en-US",
-      title: "Jackson Zhou",
-      description: "Home for all my projects",
+      title: "Code & Boba",
+      description: "Home for all my projects and notes",
     },
     "/zh/": {
       lang: "zh-CN",
@@ -91,38 +91,43 @@ module.exports = {
             link: "/projects/",
           },
           {
-            text: "Social Media",
+            text: "About Me",
             items: [
               {
-                text: "Newsletter",
-                link: "https://jacksonz.substack.com",
-                target: "_blank",
-              },
-              {
-                text: "Facebook",
-                link: "https://www.facebook.com/tianhaozhou95/",
-                target: "_blank",
-              },
-              {
-                text: "LinkedIn",
-                link: "https://www.linkedin.com/in/tianhaoz/",
-                target: "_blank",
-              },
-              {
-                text: "Twitter",
-                link: "https://twitter.com/TheSWE2",
-                target: "_blank",
-              },
-              {
-                text: "YouTube Channel",
-                link:
-                  "https://www.youtube.com/channel/UCY13XGU7-3mYz2n1NzV4oGw",
-                target: "_blank",
-              },
-              {
-                text: "GitHub",
-                link: "https://github.com/tianhaoz95",
-                target: "_blank",
+                text: "Social Media",
+                items: [
+                  {
+                    text: "Facebook",
+                    link: "https://www.facebook.com/tianhaozhou95/",
+                    target: "_blank",
+                  },
+                  {
+                    text: "GitHub",
+                    link: "https://github.com/tianhaoz95",
+                    target: "_blank",
+                  },
+                  {
+                    text: "LinkedIn Profile",
+                    link: "https://www.linkedin.com/in/tianhaoz/",
+                    target: "_blank",
+                  },
+                  {
+                    text: "Newsletter",
+                    link: "https://jacksonz.substack.com",
+                    target: "_blank",
+                  },
+                  {
+                    text: "Twitter",
+                    link: "https://twitter.com/TheSWE2",
+                    target: "_blank",
+                  },
+                  {
+                    text: "YouTube Channel",
+                    link:
+                      "https://www.youtube.com/channel/UCY13XGU7-3mYz2n1NzV4oGw",
+                    target: "_blank",
+                  },
+                ],
               },
             ],
           },
