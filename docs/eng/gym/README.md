@@ -2,7 +2,7 @@
 
 ## Snippets
 
-* How to take a random action:
+- How to take a random action:
 
 ```python
 import gym
