@@ -45,7 +45,13 @@ module.exports = {
     "@vuepress/back-to-top",
     "@vuepress/nprogress",
     "@vuepress/medium-zoom",
-    "@vuepress/pwa",
+    [
+      "@vuepress/pwa",
+      {
+        serviceWorker: true,
+        updatePopup: true,
+      },
+    ],
     "@vuepress/active-header-links",
     [
       "@vuepress/google-analytics",
