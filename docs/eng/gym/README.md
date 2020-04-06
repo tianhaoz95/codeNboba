@@ -1,5 +1,7 @@
 # Open AI Gym
 
+## Snippets
+
 * How to take a random action:
 
 ```python
