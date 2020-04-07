@@ -4,6 +4,8 @@ Here is where I keep the note for all the engineering related stuff.
 
 ## Reinforcement learning
 
+> Learn to make good sequences of decisions.
+
 ### Open AI gym
 
 OpenAI gym is a reinforcement learning framework. For more details. see the [OpenAI gym section](./gym).
