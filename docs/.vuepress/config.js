@@ -105,7 +105,7 @@ module.exports = {
             text: "About Me",
             items: [
               {
-                text: "Social Media",
+                text: "Follow me on",
                 items: [
                   {
                     text: "Facebook",
