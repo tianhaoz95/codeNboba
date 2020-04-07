@@ -94,6 +94,10 @@ module.exports = {
             link: "/life/",
           },
           {
+            text: "Wishlist",
+            link: "/list/",
+          },
+          {
             text: "Projects",
             link: "/projects/",
           },
