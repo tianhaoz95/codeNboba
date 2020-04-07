@@ -2,9 +2,13 @@
 
 Here is where I keep the note for all the engineering related stuff.
 
+## Machine Learning
+
+Work in progress...
+
 ## Reinforcement learning
 
-> Learn to make good sequences of decisions.
+Learn to make good sequences of decisions.
 
 ### Open AI gym
 
