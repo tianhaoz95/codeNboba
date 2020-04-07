@@ -1,5 +1,9 @@
 # Open AI Gym
 
+## Readings
+
+- [Tensorflow cartpole tutorial](https://blog.tensorflow.org/2018/07/deep-reinforcement-learning-keras-eager-execution.html)
+
 ## Snippets
 
 - How to take a random action:
