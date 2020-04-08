@@ -23,3 +23,7 @@ Work in progress...
 ## Docs
 
 - [Toolbox](./docs/toolbox)
+
+## Infra
+
+- [Bash Script](./infra/bash)
