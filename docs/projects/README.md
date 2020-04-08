@@ -21,3 +21,5 @@ Code & Boba is a personal blog that aims to organize the frequently used but les
 ### Fastlane plugin: flutter_version
 
 ### Flutter package updater
+
+<Disqus/>

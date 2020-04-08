@@ -7,3 +7,5 @@
 ## Trading
 
 - [Zipline: a Pythonic Algorithmic Trading Library](https://github.com/quantopian/zipline)
+
+<Disqus/>

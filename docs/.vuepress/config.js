@@ -45,6 +45,12 @@ module.exports = {
     "@vuepress/back-to-top",
     "@vuepress/nprogress",
     "@vuepress/medium-zoom",
+    [
+      "disqus",
+      {
+        shortname: "code-boba",
+      },
+    ],
     ["vuepress-plugin-code-copy", true],
     [
       "@vuepress/pwa",
