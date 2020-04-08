@@ -45,6 +45,40 @@ module.exports = {
     "@vuepress/back-to-top",
     "@vuepress/nprogress",
     "@vuepress/medium-zoom",
+    "@vuepress/active-header-links",
+    "vuepress-plugin-reading-time",
+    "reading-progress",
+    "social-share",
+    [
+      "seo",
+      {
+        siteTitle: (_, $site) => $site.title,
+        title: ($page) => $page.title,
+        description: ($page) => $page.frontmatter.description,
+        author: (_, $site) => $site.themeConfig.author,
+        tags: ($page) => $page.frontmatter.tags,
+        twitterCard: (_) => "summary_large_image",
+        type: ($page) =>
+          ["articles", "posts", "blog"].some((folder) =>
+            $page.regularPath.startsWith("/" + folder)
+          )
+            ? "article"
+            : "website",
+        url: (_, $site, path) => ($site.themeConfig.domain || "") + path,
+        image: ($page, $site) =>
+          $page.frontmatter.image &&
+          ($site.themeConfig.domain || "") + $page.frontmatter.image,
+        publishedAt: ($page) =>
+          $page.frontmatter.date && new Date($page.frontmatter.date),
+        modifiedAt: ($page) => $page.lastUpdated && new Date($page.lastUpdated),
+      },
+    ],
+    [
+      "disqus",
+      {
+        shortname: "code-boba",
+      },
+    ],
     ["vuepress-plugin-code-copy", true],
     [
       "@vuepress/pwa",
@@ -53,7 +87,6 @@ module.exports = {
         updatePopup: true,
       },
     ],
-    "@vuepress/active-header-links",
     [
       "@vuepress/google-analytics",
       {

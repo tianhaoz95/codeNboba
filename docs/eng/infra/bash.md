@@ -15,3 +15,5 @@ Assuming that you want your bash script to always start from the project root di
 ```bash
 PROJ_ROOT="$(dirname "$SCRIPT_DIR")"
 ```
+
+<Disqus/>
