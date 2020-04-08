@@ -45,6 +45,7 @@ module.exports = {
     "@vuepress/back-to-top",
     "@vuepress/nprogress",
     "@vuepress/medium-zoom",
+    ['vuepress-plugin-code-copy', true],
     [
       "@vuepress/pwa",
       {
