@@ -1,4 +1,4 @@
-# Open AI Gym ({{ $page.readingTime.text }})
+# Open AI Gym
 
 ## Readings
 
