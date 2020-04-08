@@ -48,6 +48,7 @@ module.exports = {
     "@vuepress/active-header-links",
     "vuepress-plugin-reading-time",
     "reading-progress",
+    "social-share",
     [
       "seo",
       {
