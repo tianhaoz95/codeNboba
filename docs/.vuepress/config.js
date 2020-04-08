@@ -47,6 +47,7 @@ module.exports = {
     "@vuepress/medium-zoom",
     "@vuepress/active-header-links",
     "vuepress-plugin-reading-time",
+    "reading-progress",
     [
       "seo",
       {

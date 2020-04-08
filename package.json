@@ -37,6 +37,7 @@
     "vuepress-plugin-seo": "^0.1.2"
   },
   "dependencies": {
-    "vuepress-plugin-code-copy": "^1.0.6"
+    "vuepress-plugin-code-copy": "^1.0.6",
+    "vuepress-plugin-reading-progress": "^1.0.9"
   }
 }

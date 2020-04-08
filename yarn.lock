@@ -7884,6 +7884,11 @@ vuepress-plugin-mailchimp@^1.4.1:
     jsonp "^0.2.1"
     query-string "^6.9.0"
 
+vuepress-plugin-reading-progress@^1.0.9:
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/vuepress-plugin-reading-progress/-/vuepress-plugin-reading-progress-1.0.9.tgz#800cef1ed93abe9ab7aae0147d269d1b1359ef32"
+  integrity sha512-Ge4SmKIjIwStwqx2ZupEVQfcgOBJsx5Wnxmbst1yMBV6J7bJi5sqBzlQtjNIYWZRNfqengjK3xBIRFKnk1TwyA==
+
 vuepress-plugin-reading-time@^0.1.1:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/vuepress-plugin-reading-time/-/vuepress-plugin-reading-time-0.1.1.tgz#3ea3dcded424a00c1d5175a50af8d5694899f1ea"
