@@ -6,7 +6,7 @@ Here is where I keep the note for all the engineering related stuff.
 
 Work in progress...
 
-## Reinforcement learning
+### Reinforcement learning
 
 - [Open AI gym](./rl/gym)
 
