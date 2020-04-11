@@ -14,6 +14,16 @@ Work in progress...
 
 - [Open AI gym](./rl/gym)
 
+## Full stack
+
+- [App stack](./fs/app)
+
+## Server
+
+### Firebase
+
+- [Emulator note](./server/firebase/emulator)
+
 ## Mobile dev
 
 - [Toolbox](./mobile/toolbox)
