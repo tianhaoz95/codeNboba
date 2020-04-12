@@ -37,3 +37,5 @@ except ValueError:
 ::: tip Note
 Tensorflow 2.0 eager execution, as of now, supports cloud TPU, but not Colab TPU. If you are using eager execution, you are better off with GPU.
 :::
+
+<Disqus/>

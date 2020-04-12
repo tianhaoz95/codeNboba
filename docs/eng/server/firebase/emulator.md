@@ -27,3 +27,5 @@ app = firebase.initializeApp(EmulatedAppConfig);
 db = app.firestore();
 db.settings(DatabaseSettings);
 ```
+
+<Disqus/>
