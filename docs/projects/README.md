@@ -22,4 +22,8 @@ Code & Boba is a personal blog that aims to organize the frequently used but les
 
 ### Flutter package updater
 
+## Contrib
+
+For a list of projects that I contributed to, see [here](./contrib).
+
 <Disqus/>

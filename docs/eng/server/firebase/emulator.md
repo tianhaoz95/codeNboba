@@ -9,12 +9,12 @@
 export const DatabaseEmulatorAddress: string = "localhost:8080";
 
 export const EmulatedAppConfig = {
-  projectId: "iwfpapp"
+  projectId: "iwfpapp",
 };
 
 export const DatabaseSettings = {
   host: DatabaseEmulatorAddress,
-  ssl: false
+  ssl: false,
 };
 
 // main.ts
