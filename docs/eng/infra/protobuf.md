@@ -14,7 +14,7 @@ Required libraries:
 
 - [Protobuf.js: the all in one protobuf TypeScript solution](https://github.com/protobufjs/protobuf.js)
 
-### Dart
+### Flutter/Dart
 
 Required libraries:
 
