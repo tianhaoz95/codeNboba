@@ -20,7 +20,11 @@ Code & Boba is a personal blog that aims to organize the frequently used but les
 
 ### Fastlane plugin: flutter_version
 
+`flutter_version` is a Fastlane plugin to manage Flutter project metadata. For details, please see [the repository](https://github.com/tianhaoz95/fastlane-plugin-flutter_version).
+
 ### Flutter package updater
+
+Flutter package updater is a GitHub action to automate Flutter dependency updating. For details, please see [the repository](https://github.com/tianhaoz95/update-flutter-packages).
 
 ## Contrib
 
