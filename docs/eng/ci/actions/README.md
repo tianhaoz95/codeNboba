@@ -1,8 +1,16 @@
 # GitHub Actions
 
-## Triggering
+## Build actions
 
-## Conditions
+## Use actions
+
+### Workflow examples
+
+- [Flutter projects](./flutter)
+- [Firebase projects](./firebase)
+- [VuePress projects](./vuepress)
+
+### Conditions
 
 Conditions refer to controling the behavior of workflows with the context variable which is more fine-grained than [triggering](#triggering).
 
