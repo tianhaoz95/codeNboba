@@ -1,9 +1,17 @@
-# Welcome
+# Welcome to Code & Boba
 
-Welcome to Code & Boba, a site to organize and document my projects and notes.
+## Objective
 
-I started the site when I found myself looking around the interet for the same informatio again and again wastig a ton of time.
+A site to organize and document projects, notes and plans.
 
-As a developer, especially one that love making stuff, there are way too many things to remember.
+## Background
+
+I started the site when I found myself looking around the interet for the same information again and again during development wastig a ton of time.
+
+After experimenting with various methods, I concluded that the solution is a notebook that is:
+
+- Asscesible
+- Organized
+- Detailed
 
 <Disqus/>
