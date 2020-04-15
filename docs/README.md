@@ -14,4 +14,6 @@ After experimenting with various methods, I concluded that the solution is a not
 - Organized
 - Detailed
 
+![My life with code & boba](./assets/code_and_boba_html_block.png)
+
 <Disqus/>
