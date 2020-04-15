@@ -18,8 +18,6 @@ After experimenting with various methods, I concluded that the solution is a not
 <my_day>
   <code/>
   <boba/>
-  <code/>
-  <boba/>
 </my_day>
 ```
 
