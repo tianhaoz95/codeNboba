@@ -4,6 +4,10 @@
 
 ### Test with Firebase emulator
 
+If the app uses Firebase as backend, running it against a fake backend (instead of the real server) is preferrable.
+
+The following script runs the integration test on top of a Firebase emulator:
+
 ```bash
 firebase emulators:exec \
   --only functions,firestore \
@@ -18,6 +22,8 @@ await driver.waitFor(find.byValueKey('something_that_should_show_up'));
 ```
 
 ### Conditional testing
+
+For apps that caches the authentication data, we can use conditional testing to mitigate the accidentally cached data:
 
 ```dart
 import 'package:flutter_driver/flutter_driver.dart';
