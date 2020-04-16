@@ -2,6 +2,14 @@
 
 ## Integration test
 
+### Test with Firebase emulator
+
+```bash
+firebase emulators:exec \
+  --only functions,firestore \
+  "cd app && flutter drive --target=test_driver/emulator.dart"
+```
+
 ### Wait for completion
 
 ```dart
