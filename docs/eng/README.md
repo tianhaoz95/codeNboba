@@ -26,21 +26,40 @@ Work in progress...
 
 ## Mobile dev
 
-- [Toolbox](./mobile/toolbox)
-- [Flutter](./mobile/flutter)
-- [Fastlane](./automation/fastlane)
+- [Toolbox](./mobile/toolbox): a curated list of useful tools
+
+### Flutter
+
+Flutter is a cross-platform app framework backed by Google:
+
+- [Flutter Notes](./mobile/flutter)
+
+### Fastlane
+
+Fastlane is a app automation framework:
+
+- [Fastlane Notes](./automation/fastlane)
 
 ## CI/CD
 
-- [GitHub Actions](./ci/actions)
+### GitHub Actions
+
+GitHub Actions is a platform for running CI/CD on GitHub:
+
+- [GitHub Actions Note](./ci/actions)
 
 ## Docs
 
-- [Toolbox](./docs/toolbox)
+- [Toolbox](./docs/toolbox): a curated list of useful tools for documenting projects
 
 ## Infra
 
-- [Bash Script](./infra/bash)
-- [Protobuf](./infra/protobuf)
+### Tricks
+
+- [Bash Script Cheat Sheet](./infra/bash)
+
+### Frameworks
+
+- [Protobuf Note](./infra/protobuf)
 
 <Disqus/>
