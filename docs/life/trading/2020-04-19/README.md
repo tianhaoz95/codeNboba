@@ -6,13 +6,15 @@ The note is taken on April 19, 2020 searching the market potentials for the next
 
 ## Thoughts
 
-Although Netflix had a bad run last Friday, given that Netflix's earnings, compared with other companies, will not fluctuate too much due to COIVD-19, it might still be a good idea to buy some before the earnings call on Tueday.
+Although Netflix had a bad run last Friday, given that Netflix's earnings, compared with other companies, will not fluctuate too much due to COIVD-19, it might still be a good idea to get some(=1) before the earnings call on Tueday.
 
-From the future market, if it keeps the same trend on Monday morning, it might be okay to short the market.
+From the future market, if it keeps the same trend on Monday morning, it might be okay to short the market(=20).
 
 For airline companies, it looks like they are going to fluctuate, but it's unclear how. Maybe should wait until the day before Delta's earnings and see how it goes.
 
-Facebook's new gaming app seems interesting. Maybe give it a bit try.
+Facebook's new gaming app seems interesting. Maybe give it a bit try(=5).
+
+In general, this week looks like a selling week.
 
 ## Stats
 
@@ -36,29 +38,29 @@ Facebook's new gaming app seems interesting. Maybe give it a bit try.
 
 ### Crude Oil
 
-Price 15.72 (-13.96%)
+Price is now 15.72 (-13.96%).
 
 ## Some news
 
-# [Sell in May and go away](https://finance.yahoo.com/m/a85df9ce-53db-3f6a-b3a1-e3b4db082a93/%E2%80%98sell-in-may-and-go-away%E2%80%99-is.html)
+- [Sell in May and go away](https://finance.yahoo.com/m/a85df9ce-53db-3f6a-b3a1-e3b4db082a93/%E2%80%98sell-in-may-and-go-away%E2%80%99-is.html)
 
 This new has nothing to do with what is happening to the market currently.
 
 Instead, it is simply indicating that the U.S. stock market tends to become not as profitable as the past several months for the rest of the year from a historial point of view.
 
-# [Crude oil futures drop at open of Asian trading](https://finance.yahoo.com/news/crude-oil-futures-drop-open-221527150.html)
+- [Crude oil futures drop at open of Asian trading](https://finance.yahoo.com/news/crude-oil-futures-drop-open-221527150.html)
 
 The oil producers are actively cutting the production, but the future price is still dropping.
 
-# [Failing to look ahead](https://www.marketwatch.com/story/the-biggest-mistake-stock-market-investors-are-making-now-failing-to-look-ahead-2020-04-16?siteid=yhoof2&yptr=yahoo)
+- [Failing to look ahead](https://www.marketwatch.com/story/the-biggest-mistake-stock-market-investors-are-making-now-failing-to-look-ahead-2020-04-16?siteid=yhoof2&yptr=yahoo)
 
 It's making a point that ZM, TDOC and WORK are good for short term trading but will face fierce competition from Microsoft and Google.
 
-# [Facebook to introduce gaming app on Monday](https://robinhood.com/news/article/41337155-b0f5-3766-bdf9-1d88b7c58b4e)
+- [Facebook to introduce gaming app on Monday](https://robinhood.com/news/article/41337155-b0f5-3766-bdf9-1d88b7c58b4e)
 
 The app is aiming to fight Twitch and YouTube Gaming. For more details, see [this post](https://www.theverge.com/2020/4/19/21227120/facebook-gaming-app-livestream-youtube-twitch-esports-android) as well.
 
-::: danger Note
+::: danger Warning
 This notebook is a reference for myself and should be used by myself **ONLY**.
 
 **NO INVESTMENT ADVICE**

@@ -4,7 +4,7 @@
 
 - [2020/04/19 notes](./2020-04-19)
 
-::: danger Note
+::: danger Warning
 The entire site is a note to myself and should be used by myself **ONLY**.
 
 **NO INVESTMENT ADVICE**
