@@ -57,6 +57,7 @@ GitHub Actions is a platform for running CI/CD on GitHub:
 ### Tricks
 
 - [Bash Script Cheat Sheet](./infra/bash)
+- [GitHub Cheat Sheet](./infra/github)
 
 ### Frameworks
 
