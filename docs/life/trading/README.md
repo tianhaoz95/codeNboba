@@ -7,7 +7,7 @@
 ::: danger Note
 The entire site is a note to myself and should be used by myself **ONLY**.
 
-NO INVESTMENT ADVICE
+**NO INVESTMENT ADVICE**
 
 The Content is for informational purposes only, you should not construe any such information or other material as legal, tax, investment, financial, or other advice. Nothing contained on my Site constitutes a solicitation, recommendation, endorsement, or offer by the author or any third party service provider to buy or sell any securities or other financial instruments in this or in in any other jurisdiction in which such solicitation or offer would be unlawful under the securities laws of such jurisdiction.
 
