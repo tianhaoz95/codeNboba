@@ -30,8 +30,6 @@ Cloning a repository with the GitHub Desktop app is much eaiser with just a simp
 
 ### Create a branch
 
-### Delete a branch
-
 ### Check out a branch
 
 #### Desktop app
@@ -47,3 +45,15 @@ git checkout [awesome_branch_name]
 ::: tip Note
 If the branch is newly created with the web or desktop app, do `git pull` or `git fetch` first.
 :::
+
+### Delete a branch
+
+### Rename a branch
+
+```bash
+git branch -m [old-name] [new-name]
+git push origin :[old-name] [new-name]
+git push origin -u [new-name]
+```
+
+<Disqus/>
