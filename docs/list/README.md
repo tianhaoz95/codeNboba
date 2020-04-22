@@ -10,6 +10,7 @@
 ## Fun hacks
 
 - [MagicMirror: build a smart mirror assistant with raspiberry pi](https://github.com/MichMich/MagicMirror)
+- [Orbit DB: yet another peer-to-peer database for dapps](https://github.com/orbitdb/orbit-db)
 
 ## Machine learning
 
