@@ -11,10 +11,25 @@
 
 - [MagicMirror: build a smart mirror assistant with raspiberry pi](https://github.com/MichMich/MagicMirror)
 - [Orbit DB: yet another peer-to-peer database for dapps](https://github.com/orbitdb/orbit-db)
+- [phelia: interactive Slack app framework](https://github.com/maxchehab/phelia)
 
 ## Machine learning
 
 - [A series of notebooks for ML basics with sklearn and tf 2.0](https://github.com/ageron/handson-ml2)
+
+### Serving
+
+- [PyTorch model serving engine](https://github.com/pytorch/serve)
+
+### Computer vision
+
+- [Green screen background for normal photos](https://github.com/senguptaumd/Background-Matting)
+
+## Infra
+
+### Monitoring
+
+- [monitoror: minimalist dashboard](https://github.com/monitoror/monitoror)
 
 ## Trading
 
