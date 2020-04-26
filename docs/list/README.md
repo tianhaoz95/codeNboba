@@ -16,6 +16,7 @@
 ## Machine learning
 
 - [A series of notebooks for ML basics with sklearn and tf 2.0](https://github.com/ageron/handson-ml2)
+- [Adversarial Latent Autoencoders: for face styling applications](https://github.com/podgorskiy/ALAE)
 
 ### Serving
 
