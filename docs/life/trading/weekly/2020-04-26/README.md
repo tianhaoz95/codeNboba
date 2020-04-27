@@ -24,6 +24,7 @@
   - Entertainment
     - Gaming and Leisure Properties (GLPI)
     - MGM Resorts (MGM)
+    - Nintendo (NTDOY)
   - Financial
     - **Visa** (V)
   - Energy

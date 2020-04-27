@@ -35,6 +35,7 @@
 ## Trading
 
 - [Zipline: a Pythonic Algorithmic Trading Library](https://github.com/quantopian/zipline)
+- [airframe: dashboard with React](https://github.com/0wczar/airframe-react)
 
 ## Interview
 
