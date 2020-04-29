@@ -81,6 +81,7 @@
 
 - Microsoft
 - Facebook
+- Tesla
 
 ### Thursday
 
@@ -108,6 +109,8 @@
 - Chevron Corp
 
 ## Index trends
+
+In general the Future market is going up which means it's probably a good week for the stock market.
 
 ## Action items
 
