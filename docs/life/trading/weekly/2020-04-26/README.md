@@ -91,14 +91,14 @@
 
 **After market close**
 
-- Apple
-- Amazon
-- Gaming and Leisure Properties (GLPI)
-- United Airlines
-- Southwestern Energy (SWN)
-- Twitter
-- MGM Resorts (MGM)
-- Visa
+- Apple: It's likely to get affected by the COVID-19 pandemic, but the target earnings are fairly low, so it might be a good idea to buy a small amount if the price declines either due to market movement or pre-earnings panic.
+- Amazon: It seems to be in a solid situation. Should the price slightly decline, considering getting some.
+- Gaming and Leisure Properties (GLPI): the numbers are probably not going to look good, but, for long term, it would be good to get some for signigicant lower price, possibly after the earnings are reported.
+- United Airlines: no action needed.
+- Southwestern Energy (SWN): No, thanks.
+- Twitter: in general it's hard to say what might happen, but should there be a panic selling before earnings call, it will be worthy to give it a try.
+- MGM Resorts (MGM): the target earnings are low, so it's likely that nothing will happen. No action needed.
+- Visa: Mastercard had the earnings at $1.78 a few days ago, `1.78 * (285.14B / 285.5) * 2 / (390.54B / 184.9) = 1.68` shows that if Visa doesn't mess it up, it should probably have a $1.68 earnings which is significantly better than the expected $1.35, so should be able to get some.
 
 ### Friday
 
