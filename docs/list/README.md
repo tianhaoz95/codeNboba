@@ -26,6 +26,12 @@
 
 - [Green screen background for normal photos](https://github.com/senguptaumd/Background-Matting)
 
+#### Photo toolkit project
+
+- [neural-doodle](https://github.com/alexjc/neural-doodle)
+- [neural-enhance](https://github.com/alexjc/neural-enhance)
+- [DeOldify](https://github.com/jantic/DeOldify)
+
 ## Infra
 
 ### Monitoring
