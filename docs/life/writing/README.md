@@ -13,5 +13,6 @@
 
 - Considering using "lots of"? Try "plethora of".
 - Thinking about using "limits"? Try "throttles" maybe.
+- Things that seem to make sense but lack scientifical or statistical support: use anecdotal
 
 <Disqus/>
