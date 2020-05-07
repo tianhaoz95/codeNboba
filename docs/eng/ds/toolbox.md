@@ -2,6 +2,24 @@
 
 ## Colab
 
+### Avoid timeout
+
+```js
+function ClickConnect(){
+  console.log("Working"); 
+  document.querySelector("colab-toolbar-button#connect").click() 
+}
+setInterval(ClickConnect,60000)
+```
+
+```js
+function ClickConnect(){
+  console.log("Working"); 
+  document.querySelector("colab-toolbar-button").click() 
+}
+setInterval(ClickConnect,60000)
+```
+
 ### Download artifact
 
 ```python
