@@ -7,7 +7,7 @@
 ```js
 function ClickConnect(){
   console.log("Working"); 
-  document.querySelector("colab-toolbar-button").click() 
+  document.querySelector("toolbar-add-code").click() 
 }
 setInterval(ClickConnect,60000)
 ```
