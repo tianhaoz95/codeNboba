@@ -7,11 +7,11 @@
 The following code snippet with avoid timeout by clicking on the "add code block" button every minute. It's annoying that this will add a ton of empty code blocks for you, but, well, it's better than timing out your valuable training session.
 
 ```js
-function ClickConnect(){
-  console.log("Working"); 
-  document.querySelector("toolbar-add-code").click() 
+function ClickConnect() {
+  console.log("Working");
+  document.querySelector("toolbar-add-code").click();
 }
-setInterval(ClickConnect,60000)
+setInterval(ClickConnect, 60000);
 ```
 
 ### Download artifact

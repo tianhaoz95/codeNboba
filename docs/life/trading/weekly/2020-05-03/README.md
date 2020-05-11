@@ -8,7 +8,6 @@ Too busy, no time to take a look :(
 - MGM Growth Properties (MGP)
 - Hercules Capital (HTGC)
 
-
 ## Disclaimer
 
 ::: danger Warning
