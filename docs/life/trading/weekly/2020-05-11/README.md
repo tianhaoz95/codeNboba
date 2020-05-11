@@ -1,12 +1,33 @@
-# Weekly Stock Notes
-
-Too busy, no time to take a look :(
+# Weekly Note
 
 ## Earnings next week
 
-- Ares Capital (ARCC)
-- MGM Growth Properties (MGP)
-- Hercules Capital (HTGC)
+- WIX
+  - **(+)** WIX has been recovering rapidly after the initial COVID-19 crash. It might have a positive correlation with the e-commerce during the pandemic, so, should there be a turbulence before the earnings, it might be a good idea to bet a small amount on it.
+- DENN
+  - DENN, as a store based business, probably took a larget hit from the COVID-19 pandemic. Considering its history of barely make it to the expected earnings, it might not be a great idea to bet on it.
+- CSCO
+  - CSCO is likely not going to be an interesting story, so not spending much effort on it.
+- BABA
+  - **(+)** As China is recovering from the pandemic, the e-commerce leader is probably having a good run, so look closely for oppotunities.
+- GRPN
+  - Not applicable
+- MAR
+  - As a travel business, MAR is not likely to look good, so probably no actions.
+- NVAX
+  - Not applicable
+- INO
+  - Not applicable
+- JD
+  - **(+)** Similar situation to BABA, so take a close look.
+- BRG
+  - Not applicable
+- GSBD
+  - Not likely to have an interesting story, but given its high dividend yeild, probably no action needed.
+- AN
+  - Not applicable
+- UAA
+  - Not applicable
 
 ## Disclaimer
 
