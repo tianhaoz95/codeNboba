@@ -12,6 +12,7 @@
 - [MagicMirror: build a smart mirror assistant with raspiberry pi](https://github.com/MichMich/MagicMirror)
 - [Orbit DB: yet another peer-to-peer database for dapps](https://github.com/orbitdb/orbit-db)
 - [phelia: interactive Slack app framework](https://github.com/maxchehab/phelia)
+- [scrcpy: control your Android on your laptop](https://github.com/Genymobile/scrcpy)
 
 ## Machine learning
 
