@@ -2,7 +2,7 @@
 
 ## TODO
 
-- [Flowchat in VuePress](https://flowchart.vuepress.ulivz.com/#install)
+- [Flowchart in VuePress](https://flowchart.vuepress.ulivz.com/#install)
 - [Nerf: Neural Radiance Fields](https://github.com/bmild/nerf)
 - [Kuants: algorithmic trading platform](https://kuants.in/)
 - [Alpaca: REST trading platform](https://alpaca.markets/)
