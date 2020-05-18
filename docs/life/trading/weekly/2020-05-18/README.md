@@ -65,7 +65,12 @@ This weeks earnings consist of mostly retails and Chinese tech and social media 
 
 - BBY (TAS)
 - NVDA (after)
+  - Action items
+    - Maybe not a bad idea to get some if it follows the trend of semiconductor industry
 - INTU (after)
+  - News
+    - (-) Lowered its expectation guideline recently (a few days ago)
+    - (-) Impact from IRS delaying the tax filing deadline
 
 ### Fri
 
