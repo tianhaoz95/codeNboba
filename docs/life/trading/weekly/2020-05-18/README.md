@@ -2,7 +2,8 @@
 
 ## Earnings next week
 
-This weeks earnings consist of mostly retails and Chinese tech and social media firms.
+- This weeks earnings consist of mostly retails and Chinese tech and social media firms
+- Powell: Federal reserve has more up its sleeves
 
 ### Mon
 
@@ -60,10 +61,12 @@ This weeks earnings consist of mostly retails and Chinese tech and social media 
     - (+) Digital sales also soared 275% through the first three weeks in April
   - Action Items
     - Might not be a bad idea to give it a try
+- EXPE (after)
 
 ### Thu
 
 - BBY (TAS)
+- TJX (before)
 - NVDA (after)
   - Action items
     - Maybe not a bad idea to get some if it follows the trend of semiconductor industry
@@ -78,7 +81,23 @@ This weeks earnings consist of mostly retails and Chinese tech and social media 
 ### Fri
 
 - BABA (before)
-- KL (before)
+  - News
+    - (+) China e-commerce recovery is looking good
+    - (+) JD earnings tops exepectation a lot
+  - Action items
+    - (+) Hold on to what's already there and look for small dips to get a couple more
+- FL (before)
+  - News
+    - (-) The market expects Foot Locker (FL) to deliver a year-over-year decline in earnings on lower revenues
+  - Action Items
+    - None, as few pieces of information are avaiable
+
+## Attention list
+
+- SFTBY
+  - News
+    - Jack Ma resigned from its board
+    - It doubled the buy back of its own stock
 
 ## Disclaimer
 
