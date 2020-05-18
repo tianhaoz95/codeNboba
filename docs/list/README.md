@@ -2,7 +2,7 @@
 
 ## TODO
 
-- [Flowchat in VuePress](https://flowchart.vuepress.ulivz.com/#install)
+- [Flowchart in VuePress](https://flowchart.vuepress.ulivz.com/#install)
 - [Nerf: Neural Radiance Fields](https://github.com/bmild/nerf)
 - [Kuants: algorithmic trading platform](https://kuants.in/)
 - [Alpaca: REST trading platform](https://alpaca.markets/)
@@ -12,6 +12,7 @@
 - [MagicMirror: build a smart mirror assistant with raspiberry pi](https://github.com/MichMich/MagicMirror)
 - [Orbit DB: yet another peer-to-peer database for dapps](https://github.com/orbitdb/orbit-db)
 - [phelia: interactive Slack app framework](https://github.com/maxchehab/phelia)
+- [scrcpy: control your Android on your laptop](https://github.com/Genymobile/scrcpy)
 
 ## Machine learning
 
