@@ -1,20 +1,23 @@
-# Trading
+# Weekly Note
 
-## Weekend thoughts
+## Earnings next week
 
-- [2020/05/25 notes](./weekly/2020-05/25)
-- [2020/05/18 notes](./weekly/2020-05-18)
-- [2020/05/11 notes](./weekly/2020-05-11)
-- [2020/03/03 notes](./weekly/2020-05-03)
-- [2020/04/26 notes](./weekly/2020-04-26)
-- [2020/04/19 notes](./weekly/2020-04-19)
+### Mon
 
-## Tips
+### Tues
 
-The [tips section](./common) presents overly simplified yet useful generic information.
+### Wed
+
+### Thu
+
+- COST (after)
+
+### Fri
+
+## Disclaimer
 
 ::: danger Warning
-The entire site is a note to myself and should be used by myself **ONLY**.
+This notebook is a reference for myself and should be used by myself **ONLY**.
 
 **NO INVESTMENT ADVICE**
 

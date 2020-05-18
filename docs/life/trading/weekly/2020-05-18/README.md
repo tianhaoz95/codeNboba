@@ -2,6 +2,8 @@
 
 ## Earnings next week
 
+This weeks earnings consist of mostly retails and Chinese tech and social media firms.
+
 ### Mon
 
 - BIDU (after)
@@ -12,16 +14,52 @@
     - Set a slight preferrable price to acquire a small amount
     - Move on after Thursday if drops
 - BILI (after)
+  - News
+    - Seems to be on a good trajectory
+  - Action items
+    - Set a slight preferrable price to acquire a small amount
+    - Move on after Thursday if drops
 - IQ (after)
+  - News
+    - Most of them are related to legal issues of different flavors
+  - Action items
+    - None, since it comes uncertainty
 
 ### Tues
 
 - WB (before)
+  - News
+    - (?) High beta compared with the entire market
+    - (+) Estimated 30% growth over the next few years
+    - (+) Kind of undervalued
+    - (+) Seems less affected by the pandemic
+  - Action Items
+    - Watch for the future market, and acquire if the index looks good
+    - Could consider holding for slightly longer as it is less affected by the pandemic
 - WMT (TAS)
+  - News
+    - (+) Account for 10% of non-automotive consumer spendings
+    - (+) Hired 200k new employees showing a spike in consumer demend
+    - (-) Challenge to convert the high demend to profit
+- HD (before)
+  - News
+    - (+?) Retails rose modestly in March. How about May?
+    - (+?) Speculation of a surge in demand in April as Americans stuck at home with limited ways to spend money focused on home improvement projects
+    - (+) Internet search for home improvement has jumped
+    - (+) Wayfair has a boost in its sales
+  - Action items
+    
 
 ### Wed
 
 - TGT (before)
+  - News
+    - (+) Better demographic coverage than Walmart
+    - (+) More forthcoming than most retailers during the pandemic
+    - (+) Sales of electronics, entertainment, and home goods jumped in April
+    - (+) Digital sales also soared 275% through the first three weeks in April
+  - Action Items
+    - Might not be a bad idea to give it a try
 
 ### Thu
 
