@@ -71,6 +71,9 @@ This weeks earnings consist of mostly retails and Chinese tech and social media 
   - News
     - (-) Lowered its expectation guideline recently (a few days ago)
     - (-) Impact from IRS delaying the tax filing deadline
+    - (-) Also withdrawing its previously provided fiscal 2020 guidance, reflecting uncertainty in current small business trends
+  - Action Items
+    - None, as I'm scared by the uncertainty
 
 ### Fri
 
