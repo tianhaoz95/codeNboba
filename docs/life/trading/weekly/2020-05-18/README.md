@@ -49,7 +49,6 @@
     - (+) Internet search for home improvement has jumped
     - (+) Wayfair has a boost in its sales
   - Action items
-    
 
 ### Wed
 
