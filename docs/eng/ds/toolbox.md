@@ -9,7 +9,15 @@ The following code snippet with avoid timeout by clicking on the "add code block
 ```js
 function ClickConnect() {
   console.log("Working");
-  document.querySelector("toolbar-add-code").click();
+  document.querySelector("colab-toolbar-button").click();
+}
+setInterval(ClickConnect, 60000);
+```
+
+```js
+function ClickConnect() {
+  console.log("Working");
+  document.querySelector("colab-toolbar-button#connect").click();
 }
 setInterval(ClickConnect, 60000);
 ```
