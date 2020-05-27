@@ -13,6 +13,13 @@
 - [Orbit DB: yet another peer-to-peer database for dapps](https://github.com/orbitdb/orbit-db)
 - [phelia: interactive Slack app framework](https://github.com/maxchehab/phelia)
 - [scrcpy: control your Android on your laptop](https://github.com/Genymobile/scrcpy)
+- [macos-virtualbox: run MacOS in virtualbox](https://github.com/myspaghetti/macos-virtualbox)
+- [olivia: open-source voice/text assistant](https://github.com/olivia-ai/olivia)
+- [mastodon: distributed social media (block chain)](https://github.com/tootsuite/mastodon)
+
+## Web dev
+
+- [responsively-app: a browser that renders all screen sizes at the same time](https://github.com/manojVivek/responsively-app)
 
 ## Machine learning
 
@@ -22,6 +29,7 @@
 ### Serving
 
 - [PyTorch model serving engine](https://github.com/pytorch/serve)
+- [openvino: vison deployment from Intel](https://github.com/openvinotoolkit/openvino)
 
 ### Computer vision
 
