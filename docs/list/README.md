@@ -26,6 +26,10 @@
 - [A series of notebooks for ML basics with sklearn and tf 2.0](https://github.com/ageron/handson-ml2)
 - [Adversarial Latent Autoencoders: for face styling applications](https://github.com/podgorskiy/ALAE)
 
+### Pipeline
+
+- [mediapipe: Google's pipeline for multi-media ML](https://github.com/google/mediapipe)
+
 ### Serving
 
 - [PyTorch model serving engine](https://github.com/pytorch/serve)
