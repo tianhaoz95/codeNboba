@@ -2,7 +2,8 @@
 
 ## Weekend thoughts
 
-- [2020/05/25 notes](./weekly/2020-05/25)
+- [2020/06/01 notes](./weekly/2020-06-01)
+- [2020/05/25 notes](./weekly/2020-05-25)
 - [2020/05/18 notes](./weekly/2020-05-18)
 - [2020/05/11 notes](./weekly/2020-05-11)
 - [2020/03/03 notes](./weekly/2020-05-03)
