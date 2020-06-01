@@ -1,21 +1,36 @@
-# Trading
+# Weekly Note
 
-## Weekend thoughts
+## Earnings next week
 
-- [2020/06/01 notes](./weekly/2020-06-01)
-- [2020/05/25 notes](./weekly/2020-05-25)
-- [2020/05/18 notes](./weekly/2020-05-18)
-- [2020/05/11 notes](./weekly/2020-05-11)
-- [2020/03/03 notes](./weekly/2020-05-03)
-- [2020/04/26 notes](./weekly/2020-04-26)
-- [2020/04/19 notes](./weekly/2020-04-19)
+### Mon
 
-## Tips
+### Tues
 
-The [tips section](./common) presents overly simplified yet useful generic information.
+- ZM (after)
+  - Discuss on the earnings call what actions it has taken to improve privacy and security of its platform.
+  - Expected EPS of $0.11 on revenue of $222.4 million (38% and 53% growth).
+
+### Wed
+
+### Thu
+
+- WORK (after)
+  - Less likely to see a beat
+  - Could be a buy after dropping?
+- LULU (after)
+- MDB (after)
+- DOCU (after)
+
+### Fri
+
+### Coming up next week
+
+- AVGO
+
+## Disclaimer
 
 ::: danger Warning
-The entire site is a note to myself and should be used by myself **ONLY**.
+This notebook is a reference for myself and should be used by myself **ONLY**.
 
 **NO INVESTMENT ADVICE**
 
