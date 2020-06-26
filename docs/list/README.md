@@ -6,6 +6,7 @@
 - [Nerf: Neural Radiance Fields](https://github.com/bmild/nerf)
 - [Kuants: algorithmic trading platform](https://kuants.in/)
 - [Alpaca: REST trading platform](https://alpaca.markets/)
+- [rasa: ML framework for voice and text based products](https://github.com/RasaHQ/rasa)
 
 ## Fun hacks
 
