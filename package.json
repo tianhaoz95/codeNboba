@@ -39,6 +39,6 @@
   },
   "dependencies": {
     "vuepress-plugin-code-copy": "^1.0.6",
-    "vuepress-plugin-reading-progress": "^1.0.9"
+    "vuepress-plugin-reading-progress": "^1.0.10"
   }
 }
