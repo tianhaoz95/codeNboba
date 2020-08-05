@@ -24,7 +24,7 @@
   "homepage": "https://github.com/tianhaoz95/codeNboba#readme",
   "devDependencies": {
     "@vuepress/plugin-active-header-links": "^1.5.2",
-    "@vuepress/plugin-back-to-top": "^1.5.2",
+    "@vuepress/plugin-back-to-top": "^1.5.3",
     "@vuepress/plugin-blog": "^1.9.2",
     "@vuepress/plugin-google-analytics": "^1.5.3",
     "@vuepress/plugin-medium-zoom": "^1.5.2",
