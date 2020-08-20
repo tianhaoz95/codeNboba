@@ -11,3 +11,7 @@ VBoxManage setextradata "MacOS" "VBoxInternal/Devices/efi/0/Config/DmiBoardProdu
 VBoxManage setextradata "MacOS" "VBoxInternal/Devices/smc/0/Config/DeviceKey" "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc"
 VBoxManage setextradata "MacOS" "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 1
 ```
+
+```shell
+VBoxManage setextradata "MacOS" VBoxInternal2/EfiGraphicsResolution 2560x1080
+```
