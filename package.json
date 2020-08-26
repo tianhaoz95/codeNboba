@@ -30,7 +30,7 @@
     "@vuepress/plugin-medium-zoom": "^1.5.4",
     "@vuepress/plugin-nprogress": "^1.5.4",
     "@vuepress/plugin-pwa": "^1.5.4",
-    "prettier": "2.1.0",
+    "prettier": "2.1.1",
     "vuepress": "^1.5.4",
     "vuepress-plugin-disqus": "^0.2.0",
     "vuepress-plugin-reading-time": "^0.1.1",
