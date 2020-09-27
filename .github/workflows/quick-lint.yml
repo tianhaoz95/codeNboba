@@ -1,4 +1,4 @@
-name: Hiraishin
+name: Quick lint
 on:
   pull_request:
     branches:
