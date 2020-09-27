@@ -1,4 +1,4 @@
-name: Amenotejikara
+name: Publish site
 on:
   push:
     branches:
