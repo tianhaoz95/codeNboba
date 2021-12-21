@@ -1121,10 +1121,17 @@
   dependencies:
     medium-zoom "^1.0.4"
 
-"@vuepress/plugin-nprogress@1.8.0", "@vuepress/plugin-nprogress@^1.8.0":
+"@vuepress/plugin-nprogress@1.8.0":
   version "1.8.0"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-nprogress/-/plugin-nprogress-1.8.0.tgz#8fd3d5415d4c8326ca569118e935b875e5fd7bb5"
   integrity sha512-JmjeJKKWhbF/8z+EnY8BCWHoHKhUWfqXjXOfV+xifITl6BJlf53I/jLFpX7Sij8Whe+SKjH7kNvc+hioUdwJQw==
+  dependencies:
+    nprogress "^0.2.0"
+
+"@vuepress/plugin-nprogress@^1.8.3":
+  version "1.8.3"
+  resolved "https://registry.yarnpkg.com/@vuepress/plugin-nprogress/-/plugin-nprogress-1.8.3.tgz#ffbdefe845fbc7378b1a85de89d95ed6dc436cae"
+  integrity sha512-BSMDcON1sIib/JoQh+W4t7WGQeMIFKakZ931IGSeVhLwCmEUd4sgC1dSPFYWXGSxCoattcrFLwqP9gJ9vabJpw==
   dependencies:
     nprogress "^0.2.0"
 
